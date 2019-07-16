@@ -30,4 +30,4 @@ Es hora de crear la explicación del elemento/componente en Markdown, no existe 
 
 ### 3. Hora de hacer push 👊
 
-Despues de terminar de editar, solo tienes que hacer push en `master`. Por el momento no usaremos `branches`.
+Despues de terminar de editar, solo tienes que hacer push en `dev`.
