@@ -4,7 +4,9 @@
 
 ## Table Primary
 
-La [Tabla es de Boostrap Vuejs](https://bootstrap-vue.js.org/docs/components/table/#tables), donde puedes ver todas las referencias, propiedades y slots.
+#### Componentes:
+- [Tabla Boostrap Vuejs](https://bootstrap-vue.js.org/docs/components/table/#tables)
+- [Pagination Boostrap Vuejs](https://bootstrap-vue.js.org/docs/components/pagination/#pagination)
 
 ?> **Nota:** Tiene que llevar el componente `pagination` cuando hay muchos elementos que mostrar.
 
@@ -32,7 +34,7 @@ La [Tabla es de Boostrap Vuejs](https://bootstrap-vue.js.org/docs/components/tab
 </b-pagination>
 ```
 
-Como lo indica la documentación de **BVJS** (Bootstrap Vuejs), se tienen que usar varios props para el componente de `b-table`, estos son algunos de que se uso en el componente de Vuejs con el nombre `ListUsersCompanyComponent.vue`
+Como lo indica la documentación de **BVJS** (Bootstrap Vuejs), se tienen que usar varios `props` para el componente de `b-table`, estos son algunos de que se uso en el componente de Vuejs con el nombre [ListUsersCompanyComponent.vue](https://bitbucket.org/opteren/dps-ac/src/dev/resources/js/components/company/ListUsersCompanyComponent.vue)
 
 ```javascript
 data() {
