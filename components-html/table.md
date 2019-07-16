@@ -4,6 +4,8 @@
 
 ## Table Primary
 
+![Table Primary](../_images/table-primary.png 'Table Primary')
+
 #### Componentes:
 - [Tabla Boostrap Vuejs](https://bootstrap-vue.js.org/docs/components/table/#tables)
 - [Pagination Boostrap Vuejs](https://bootstrap-vue.js.org/docs/components/pagination/#pagination)
