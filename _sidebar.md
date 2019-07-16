@@ -5,6 +5,7 @@
 - Componentes HTML
 
   - [Tablas](components-html/table.md)
+  - [Iconos](components-html/icons.md)
 
 - Elementos SCSS
 
