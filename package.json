@@ -4,7 +4,7 @@
   "description": "Esta libreria lo que hace es buscar todo los archivos en `.md` y realizarlos en un sitio web de documentación. Entonces solo se necesita tener conocimientos en Markdown.",
   "main": "index.js",
   "scripts": {
-    "deploy": "git push && git push production && git checkout master && git merge --no-ff dev && git checkout dev"
+    "deploy": "git push && git push production && git checkout master && git merge --no-ff dev && git push && git push production && git checkout dev"
   },
   "repository": {
     "type": "git",
