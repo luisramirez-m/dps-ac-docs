@@ -30,3 +30,31 @@ Para los formularios con carga de data usaremos [Vue-multiselect](https://vue-mu
     name="role"
 ></multiselect>
 ```
+
+
+## Helper Icon
+Para mostrar texto de ayuda usaremos este componente. 
+
+| Property    | Type    | Description                             |
+|-------------|---------|-----------------------------------------|
+| `message`   |  string | Es el mensaje que mostrara el `tooltip` |
+
+
+<!-- tabs:start -->
+
+#### **Resultado**
+
+![form-helper-icon](../_images/form-helper-icon.png 'Form Helper Icon')
+
+#### **HTML**
+
+```html
+<form-icon-helper
+    message="{{ _i('Slug generado automaticamente. Pero puede ser editado por uno personalizado.') }}">
+</form-icon-helper>
+```
+
+
+<!-- tabs:end -->
+
+
