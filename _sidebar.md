@@ -2,7 +2,6 @@
     * [Inicio](/)
 
 - Componentes HTML
-    - [General](components-html/general.md)
     - [Tablas](components-html/table.md)
     - [Iconos](components-html/icons.md)
 
@@ -10,6 +9,7 @@
 
 - Componentes VueJs
     - [Lista de componentes externos](components-vuejs/components-vue.md)
+    - [General](components-vuejs/general.md)
     - [Forms](components-vuejs/forms.md)
 
 - Preguntas Frecuentes
