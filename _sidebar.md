@@ -8,9 +8,12 @@
 - Elementos SCSS
 
 - Componentes VueJs
-    - [Lista de componentes externos](components-vuejs/components-vue.md)
     - [General](components-vuejs/general.md)
     - [Forms](components-vuejs/forms.md)
+
+- Packages
+    - [JavaScript / Vuejs](packages/javascript.md)
+    - [Laravel](packages/laravel.md)
 
 - Preguntas Frecuentes
     - [¿Como agregar Elemento/Component en Docsify?](faq/add-elements.md)
